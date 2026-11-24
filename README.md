@@ -10,6 +10,8 @@ This datapack has been tested to work with Spectrum version `1.13.0`
 - 5 new & 3 updated Colorful World entries!
 - 10 new recipes!
 - Access to A `Wonderful` Idea! :)
+- A few things you'll have to see yourself!
+  
 With more on the way!
 
 ## Installation Guide:
@@ -18,7 +20,7 @@ HOWEVER! There is a fix:
 before adding datapack:
 run `/advancement revoke @a only spectrum:unlocks/blocks/memories`
 run `/advancement revoke @a only spectrum:endgame/spectrum_endgame`
-
+[adding the datapack](https://minecraft.wiki/w/Tutorial:Importing_a_data_pack)
 after adding datapack:
 run `/advancement grant @a only spectrum:unlocks/blocks/memories`
 run `/advancement grant @a only spectrum:endgame/spectrum_endgame`
