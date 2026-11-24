@@ -14,7 +14,7 @@ With more on the way!
 
 
 
-
+ 
 ## NOTICES:
 No part of this datapack was created with or by Artificial Intelligence. The creator of this datapack does not support the use of AI in creative works.
 
@@ -23,5 +23,5 @@ The creator of this datapack does not take any credit, in whole or in part, for 
 The creator of this datapack acknowledges the issues with and apologizes preemptively for using the `spectrum` namespace.
 
 
-
+  
 Odds are this datapack will eventually become obsolete. That is okay, I do not intend for it to last forever and will welcome the time that it becomes irrelevant, as that means there will be more official spectrum content to explore.
