@@ -16,16 +16,26 @@ With more on the way!
 
 ## Installation Guide:
 As some of the advancements in this datapack are gated behind advancements, if you already have said advancements (in, say, a preexisting world) it'll be impossible for you to get them.
+
 HOWEVER! There is a fix:
+
 before adding datapack:
+
 run `/advancement revoke @a only spectrum:unlocks/blocks/memories`
+
 run `/advancement revoke @a only spectrum:endgame/spectrum_endgame`
+
 [adding the datapack](https://minecraft.wiki/w/Tutorial:Importing_a_data_pack)
+
 after adding datapack:
+
 run `/advancement grant @a only spectrum:unlocks/blocks/memories`
+
 run `/advancement grant @a only spectrum:endgame/spectrum_endgame`
 
+
 And you'll be good to go! Sadly, I do not know a way around this aside from playing on a new save with this datapack installed from the start.
+
 *There is a chance you may need to do `/modonomicon modonomicon reset spectrum:guidebook` a few times, this is due to the guidebook being finicky with advancements being added mid-playthrough. This command will NOT erase any progress you may already have.
 
 ## NOTICES:
