@@ -1,0 +1,18 @@
+﻿{
+  "criteria": {
+    "hatch_monstrosity_wip": {
+      "trigger":"spectrum:memory_manifesting",
+      "conditions": {
+        "manifested_entity": {
+          "type": "spectrum:monstrosity"
+        }
+      }
+    }
+  },
+  "gotten_previous": {
+    "trigger": "revelationary:advancement_gotten",
+    "conditions": {
+      "advancement_identifier": "spectrum:create_monstrosity_wip"
+    }
+  }
+}

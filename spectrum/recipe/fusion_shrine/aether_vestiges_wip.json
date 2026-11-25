@@ -1,0 +1,33 @@
+{
+  "type": "spectrum:fusion_shrine",
+  "time": 5000,
+  "experience": 0.0,
+  "fluid": {
+    "fluid": "spectrum:midnight_solution"
+  },
+  "ingredients": [
+    "minecraft:nether_star",
+    "spectrum:star_fragment",
+    "spectrum:stardust"
+  ],
+  "result": {
+    "id": "spectrum:aether_vestiges"
+  },
+  "world_conditions": {
+    "time_of_day": "midnight",
+    "moon_phase": "full_moon"
+  },
+  "required_advancement": "spectrum:create_spectral_shard_wip",
+  "effects": {
+    "start": "lightning_on_shrine",
+    "during": [
+      "weather_thunder_short",
+      "nothing",
+      "lightning_around_shrine",
+      "lightning_on_shrine",
+      "maybe_place_midnight_solution",
+      "lightning_around_shrine"
+    ],
+    "finish": "/fill ~ ~2 ~ ~ ~2 ~ spectrum:liquid_crystal"
+  }
+}

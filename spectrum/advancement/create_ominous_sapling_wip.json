@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "created_ominous_sapling_wip": {
+      "trigger":"spectrum:crafted_with_spirit_instiller",
+      "conditions": {
+        "items": [
+          {
+            "items": "spectrum:ominous_sapling"
+          }
+        ]
+      }
+    },
+    "gotten_previous": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:create_spectral_shard_wip"
+      }
+    }
+  }
+}

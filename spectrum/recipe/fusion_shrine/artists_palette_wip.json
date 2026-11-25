@@ -1,0 +1,42 @@
+﻿{
+  "type": "spectrum:fusion_shrine",
+  "time": 3600,
+  "experience": 32.0,
+  "fluid": {
+    "fluid": "spectrum:liquid_crystal"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 8
+    },
+    {
+      "item": "spectrum:spectral_shard",
+      "count": 2
+    },
+    {
+      "item": "spectrum:cyan_pigment",
+      "count": 16
+    },
+    {
+      "item": "spectrum:magenta_pigment",
+      "count": 16
+    },
+    {
+      "item": "spectrum:yellow_pigment",
+      "count": 16
+    },
+    {
+      "item": "spectrum:black_pigment",
+      "count": 16
+    },
+    {
+      "item": "spectrum:white_pigment",
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "spectrum:artists_palette"
+  },
+  "required_advancement": "spectrum:create_spectral_shard_wip"
+}

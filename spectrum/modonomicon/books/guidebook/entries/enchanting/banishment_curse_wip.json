@@ -1,0 +1,53 @@
+﻿{
+  "name": "Curse of Banishment",
+  "icon": {
+    "item": "spectrum:multitool"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "spectrum:create_spectral_shard_wip"
+  },
+  "category": "spectrum:enchanting",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "y": -1,
+  "x": 6,
+  "turnin": "spectrum:endgame/sent_to_shadow_realm",
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "The energy of a Spectral Shard in such a small area got me thinking: *what if it was compacted?*\\\n\\\nNaturally, this would be too explosive for me to even think of doing at home, but an enchantment would be able to capture the energy nicely!",
+      "title": "Curse of Banishment"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "title": "book.spectrum.guidebook.enchantment_characteristics",
+      "item": {
+        "item": "spectrum:multitool",
+        "components": {
+          "minecraft:enchantments": {
+            "spectrum:banishment_curse": 1
+          }
+        }
+      },
+      "text": "Makes any enemy hit disappear, at the loss of their loot.\\\n\\\nMax Level: 1\\\nApplicable to all tools.\\\nMutually exclusive with every enchantment."
+    },
+    {
+      "type": "spectrum:enchanter_crafting",
+      "text": "book.spectrum.guidebook.crafting",
+      "title": "container.spectrum.rei.enchanter_recipe",
+      "recipe_id": "spectrum:enchanter/spectrum_books/banishment_curse"
+    },
+    {
+      "type": "modonomicon:text",
+      "title": "Curse of Banishment",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "spectrum:endgame/sent_to_shadow_realm_wip"
+      },
+      "text": "This enchantment is... odd, to say the least.\\\n\\\nAnything I hit with it disappears without a trace, so naturally I named it \"Curse of Banishment\".\\\n\\\nI do not know where they go, *which is kind of scary when I stop to think about it.*\\\n\\\n*I should be* ***really*** *careful around this one.*"
+    }
+  ]
+}

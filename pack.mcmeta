@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "over_the_rainbow v1.0.0",
+    "supported_formats": {
+      "min_inclusive": 4,
+      "max_inclusive": 121
+    },
+    "min_format": 4,
+    "max_format": 121
+  }
+}
