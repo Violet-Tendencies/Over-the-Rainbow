@@ -1,0 +1,32 @@
+{
+  "type": "spectrum:fusion_shrine",
+  "time": 1500,
+  "experience": 20.0,
+  "fluid": {
+    "fluid": "spectrum:dragonrot"
+  },
+  "ingredients": [
+    "spectrum:topaz_shard",
+    "minecraft:amethyst_shard",
+    "spectrum:citrine_shard",
+    "spectrum:onyx_shard",
+    "spectrum:moonstone_shard",
+    "spectrum:stardust",
+    "spectrum:aether_vestiges"
+  ],
+  "result": {
+    "id": "spectrum:spectral_shard"
+  },
+  "required_advancement": "spectrum:lategame/collect_aether_vestiges",
+  "effects": {
+    "start": "single_visual_explosion_on_shrine",
+    "during": [
+      "nothing",
+      "visual_explosions_around_shrine",
+      "lightning_on_shrine",
+      "visual_explosions_on_shrine",
+      "lightning_around_shrine"
+    ],
+    "finish": "weather_thunder_short"
+  }
+}

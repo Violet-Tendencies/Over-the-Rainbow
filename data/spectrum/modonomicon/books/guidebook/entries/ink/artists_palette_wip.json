@@ -1,0 +1,41 @@
+{
+  "name": "Artist's Palette",
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "spectrum:create_spectral_shard_wip"
+  },
+  "icon": {
+    "item": "spectrum:artists_palette"
+  },
+  "parents": [
+    {
+      "entry": "spectrum:ink/pigment_palette"
+    },
+    {
+      "entry": "spectrum:ink/ink_flask"
+    }
+  ],
+  "hide_while_locked": true,
+  "category": "spectrum:ink",
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 1,
+  "y": -4,
+  "turnin": "spectrum:create_spectral_shard_wip",
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "title": "Artist's Palette",
+      "item": {
+        "item": "spectrum:artists_palette"
+      },
+      "text": "The Artist's Palette combines the Ink-storing ability of the Pigment Palette with your new capabilities to mix colors.\\\n\\\nIt directly stores elemental Ink and mixes the others on the fly, while having vastly increased capacity."
+    },
+    {
+      "type": "spectrum:fusion_shrine_crafting",
+      "title": "Fusion Recipe",
+      "recipe_id": "spectrum:fusion_shrine/artists_palette_wip",
+      "text": "Capable of storing sizable amounts of Ink, making you able to supply all your magical equipment.\\\n\\\nIt is not suited for powering your machines, though."
+    }
+  ]
+}
