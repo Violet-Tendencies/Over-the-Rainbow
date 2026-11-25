@@ -6,7 +6,7 @@ Most, if not all, of these recipes are only accessible in the current endgame of
 This datapack has been tested to work with Spectrum version `1.12.9` and most likely works with `1.13.0`, the formatting of the new guidebook entries fitting with the latter.
 
 ## Disclaimer:
-This datapack does contain some relatively visceral entries. Work is being done to allow for more tame versions of said entries, but these alternatives are not implemented yet.
+This datapack does contain some relatively visceral entries. If enough people (literally anyone) request it, I will add a setting to make the aforementioned text lighter, but I did not feel the need to add it currently as the original mod contains a few entries of a similar caliber.
 
 ## Additions:
 - 1 new enchantment!
