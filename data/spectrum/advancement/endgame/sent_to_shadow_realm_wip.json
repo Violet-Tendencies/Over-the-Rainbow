@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "id": "spectrum:silver_scale"
+    },
+    "title": "[Insert Yu-Gi-Oh reference]",
+    "description": "Wipe an entity off the face of the earth."
+  },
+  "parent": "spectrum:create_spectral_shard_wip",
+  "criteria": {
+    "shadow_realmed_wip": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "equipment": {
+              "mainhand": {
+                "components": {
+                  "minecraft:enchantments": {
+                    "levels": {
+                      "spectrum:banishment_curse": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gotten_previous": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:create_spectral_shard_wip"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 250
+  }
+}

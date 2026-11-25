@@ -1,0 +1,16 @@
+﻿{
+  "criteria": {
+    "unlocked_memories": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:unlocks/blocks/memories"
+      }
+    },
+    "created_spectral_shard_wip": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:create_spectral_shard_wip"
+      }
+    }
+  }
+}

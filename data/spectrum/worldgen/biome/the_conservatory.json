@@ -1,0 +1,52 @@
+﻿{
+  "temperature": 0.2,
+  "downfall": 0.2,
+  "has_precipitation": false,
+  "creature_spawn_probability": 0,
+  "effects": {
+    "fog_color": 592924,
+    "sky_color": 592924,
+    "water_color": 592924,
+    "water_fog_color": 329011,
+    "grass_color_modifier": "none",
+    "music": {
+      "sound": "spectrum:music.the_conservatory",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    }
+  },
+  "attributes": {
+    "gameplay/bed_rule": {
+      "can_sleep": "never",
+      "can_set_spawn": "never"
+    },
+    "visual/cloud_height": 0
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "has_precipitation": false
+}

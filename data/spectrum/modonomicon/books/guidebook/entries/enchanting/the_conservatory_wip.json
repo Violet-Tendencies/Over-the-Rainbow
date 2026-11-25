@@ -1,0 +1,36 @@
+﻿{
+  "name": "Banishment.",
+  "icon": {
+    "item": "spectrum:neolith_block"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "spectrum:endgame/enter_conservatory_wip"
+  },
+  "category": "spectrum:enchanting",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "spectrum:enchanting/banishment_curse_wip"
+    },
+    {
+      "entry": "spectrum:enchanting/voidling"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "y": -1,
+  "x": 8,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "My lungs are being shredded more with every breath; the air here is as toxic as it is debilitating.\\\n\\\nAt any given moment my body is vivisected almost as quickly as it is put back together.\\\n\\\nI can only look downwards, as to look in any other direction is to stare at that which wants to rip my eyes out.",
+      "title": "Banishment."
+    },
+    {
+      "type": "modonomicon:text",
+      "title": "END.",
+      "text": "After an eternity, I had finally come to my senses. I looked around and I was... fine? Whatever, more important questions: where am I and how do I get back?\\\n\\\nLooking further I noticed a small rift behind me, *how convienient*.\\\n\\\nDespite me recovering, every second that passes here makes the clamp around my head tighten.\\\n*I shouldn't be here - not yet*."
+    }
+  ]
+}

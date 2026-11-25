@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "spectrum:spectral_shard"
+    },
+    "title": {
+      "translate": "advancements.spectrum.create_spectral_shard.title"
+    },
+    "description": {
+      "translate": "advancements.spectrum.create_spectral_shard.description"
+    }
+  },
+  "parent": "spectrum:endgame/spectrum_endgame",
+  "criteria": {
+    "created_spectral_shard_wip": {
+      "trigger": "spectrum:crafted_with_fusion_shrine",
+      "conditions": {
+        "items": [
+          {
+            "items": "spectrum:spectral_shard"
+          }
+        ]
+      }
+    },
+    "gotten_previous": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:endgame/spectrum_endgame"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 250
+  }
+}

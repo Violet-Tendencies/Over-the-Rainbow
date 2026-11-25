@@ -1,0 +1,52 @@
+﻿{
+  "anvil_cost": 4,
+  "description": {
+    "text": "Curse of Banishment"
+  },
+  "effects": {
+    "minecraft:damage":[
+      {
+        "effect": {
+          "type": "minecraft:multiply",
+          "factor": {
+            "type": "minecraft:linear",
+            "base": 0.01,
+            "per_level_above_first": 0
+          }
+        }
+      }
+    ],
+    "minecraft:post_attack":[
+      {
+        "enchanted": "attacker",
+        "affected": "victim",
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "spectrum:banishment_curse"
+        },
+        "requirement": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:iron_golem"
+          }
+        }
+      }
+    ]
+  },
+  "exclusive_set": "#minecraft:non_treasure",
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 20,
+    "per_level_above_first": 0
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#minecraft:enchantable/crossbow",
+  "weight": 2
+}
