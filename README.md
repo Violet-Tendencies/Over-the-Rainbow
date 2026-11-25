@@ -3,7 +3,7 @@ This is a DATAPACK intended to be used WITH [Spectrum by Dafuqs](https://github.
 
 This datapack aims to add access to currently WIP items that have functionality, but no way to get them in-game.
 Most, if not all, of these recipes are only accessible in the current endgame of Spectrum.
-This datapack has been tested to work with Spectrum version `1.13.0`
+This datapack has been tested to work with Spectrum version `1.12.9` and most likely works with `1.13.0`, the guidebook formatting fitting with the latter.
 
 ## Additions:
 - 1 new enchantment!
