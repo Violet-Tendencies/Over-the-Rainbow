@@ -1,0 +1,12 @@
+﻿{
+  "values": [
+    {
+      "id": "spectrum:barrage",
+      "required": false
+    },
+    {
+      "id": "spectrum:banishment_curse",
+      "required": false
+    }
+  ]
+}

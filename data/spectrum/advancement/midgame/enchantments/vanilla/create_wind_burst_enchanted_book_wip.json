@@ -1,0 +1,46 @@
+﻿{
+  "criteria": {
+    "crafted_wind_burst_book_wip": {
+      "trigger": "spectrum:enchanter_crafting",
+      "conditions": {
+        "item": {
+          "items": "minecraft:enchanted_book",
+          "predicates": {
+            "minecraft:stored_enchantments": [
+              {
+                "enchantments": "minecraft:wind_burst",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "enchanted_wind_burst_book_wip": {
+      "trigger": "minecraft:enchanted_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:enchanted_book",
+          "predicates": {
+            "minecraft:stored_enchantments": [
+              {
+                "enchantments": "minecraft:wind_burst",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "gotten_previous": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:unlocks/enchantments/vanilla_trial_treasure"
+      }
+    }
+  }
+}

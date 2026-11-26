@@ -3,7 +3,7 @@
     "unlocked_conflicted_enchanting_with_enchanter": {
       "trigger": "revelationary:advancement_gotten",
       "conditions": {
-        "advancement_identifier": "spectrum:create_spectral_shard_wip"
+        "advancement_identifier": "spectrum:midgame/create_enchantments_wip"
       }
     }
   }
