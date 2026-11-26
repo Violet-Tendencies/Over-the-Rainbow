@@ -9,10 +9,10 @@ This datapack has been tested to work with Spectrum version `1.12.9` and most li
 This datapack does contain some relatively visceral entries. If enough people (literally anyone) request it, I will add a setting to make the aforementioned text lighter, but I did not feel the need to add it currently as the original mod contains a few entries of a similar caliber.
 
 ## Additions:
-- 1 new enchantment!
-- 5 new & 3 updated Colorful World entries!
+- 2 new enchantments!
+- 6 new & 5 updated Colorful World entries!
 - 10 new recipes!
-- Access to A `Wonderful` Idea! :)
+- Access to some `Wonderful` Ideas! :)
 - A few things you'll have to see yourself!
   
 With more on the way!
