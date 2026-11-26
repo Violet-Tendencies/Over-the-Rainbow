@@ -1,0 +1,23 @@
+﻿{
+  "values": [
+    "#minecraft:treasure",
+    "#minecraft:non_treasure",
+    "#minecraft:curse",
+    "#minecraft:on_random_loot",
+    "#minecraft:in_enchanting_table",
+    "#minecraft:double_trade_price",
+    "#minecraft:on_traded_equipment",
+    "#minecraft:prevents_bee_spawns_when_mining",
+    "#minecraft:preventsdecorated_pot_shattering",
+    "#minecraft:prevents_ice_melting",
+    "#minecraft:prevents_infested_spawns",
+    "#minecraft:tradeable",
+    "#minecraft:exclusive_set/armor",
+    "#minecraft:exclusive_set/boots",
+    "#minecraft:exclusive_set/bow",
+    "#minecraft:exclusive_set/crossbow",
+    "#minecraft:exclusive_set/damage",
+    "#minecraft:exclusive_set/mining",
+    "#minecraft:exclusive_set/riptide"
+  ]
+}
