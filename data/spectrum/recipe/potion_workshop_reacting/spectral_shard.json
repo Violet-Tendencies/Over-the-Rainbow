@@ -3,7 +3,9 @@
   "item": "spectrum:spectral_shard",
   "modifiers": [
     {
-      "unidentifiable": false,
+      "unidentifiable": true
+    },
+    {
       "random_color": true
     },
     {
