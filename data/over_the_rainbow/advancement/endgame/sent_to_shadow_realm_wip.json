@@ -3,8 +3,12 @@
     "icon": {
       "id": "minecraft:barrier"
     },
-    "title": "[Insert Yu-Gi-Oh reference]",
-    "description": "Wipe an entity off the face of the earth."
+    "title": {
+      "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.description"
+    },
+    "description": {
+      "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.title"
+    }
   },
   "parent": "spectrum:create_spectral_shard_wip",
   "criteria": {

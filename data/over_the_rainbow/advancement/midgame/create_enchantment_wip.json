@@ -1,0 +1,96 @@
+﻿{
+  "display": {
+    "icon": {
+      "id": "minecraft:enchanted_book"
+    },
+    "frame": "advancement",
+    "title": {
+      "translate": "advancements.over_the_rainbow.create_enchantment.title"
+    },
+    "description": {
+      "translate": "advancements.over_the_rainbow.create_enchantment.description"
+    }
+  },
+  "parent": "spectrum:midgame/build_enchanting_structure",
+  "criteria": {
+    "has_enchanted_once_wip": {
+      "trigger": "revelationary:advancement_count",
+      "conditions": {
+        "count": {
+          "min": 1
+        },
+        "advancement_identifiers": [
+          "spectrum:lategame/create_resonance_enchanted_book",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_aqua_affinity_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_bane_of_arthropods_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_binding_curse_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_blast_protection_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_breaching_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_channeling_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_density_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_depth_strider_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_efficiency_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_feather_falling_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_fire_aspect_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_fire_protection_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_flame_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_fortune_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_frost_walker_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_impaling_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_infinity_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_looting_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_loyalty_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_luck_of_the_sea_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_lure_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_mending_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_multishot_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_piercing_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_power_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_projectile_protection_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_protection_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_punch_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_quick_charge_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_respiration_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_riptide_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_sharpness_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_silk_touch_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_smite_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_soul_speed_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_sweeping_edge_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_swift_sneak_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_thorns_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_unbreaking_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_vanishing_curse_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_wind_burst_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_banishment_curse_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_barrage_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_big_catch_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_clovers_favor_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_disarming_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_exuberance_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_first_strike_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_foundry_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_improved_critical_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_indestructible_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_inertia_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_inexorable_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_inventory_insertion_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_pest_control_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_razing_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_serindipity_reel_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_sniping_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_steadfast_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_tight_grip_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_treasure_hunter_enchanted_book_wip",
+          "over_the_rainbow:midgame/enchantments/vanilla/create_voiding_enchanted_book_wip"
+        ]
+      }
+    },
+    "gotten_previous": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:midgame/build_enchanting_structure"
+      }
+    }
+  }
+}

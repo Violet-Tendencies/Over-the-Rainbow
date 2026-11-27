@@ -1,11 +1,11 @@
 ﻿{
-  "name": "Curse of Banishment",
+  "name": "enchantment.over_the_rainbow.banishment_curse",
   "icon": {
     "item": "spectrum:multitool"
   },
   "condition": {
     "type": "modonomicon:advancement",
-    "advancement_id": "spectrum:create_spectral_shard_wip"
+    "advancement_id": "over_the_rainbow:endgame/create_spectral_shard_wip"
   },
   "category": "spectrum:enchanting",
   "hide_while_locked": true,
@@ -19,12 +19,12 @@
   "background_v_index": 0,
   "y": -1,
   "x": 6,
-  "turnin": "spectrum:endgame/sent_to_shadow_realm",
+  "turnin": "over_the_rainbow:endgame/sent_to_shadow_realm",
   "pages": [
     {
       "type": "modonomicon:text",
-      "text": "The energy of a Spectral Shard in such a small area got me thinking: *what if it was compacted?*\\\n\\\nNaturally, this would be too explosive for me to even think of doing at home, but an enchantment would be able to capture the energy nicely!",
-      "title": "Curse of Banishment"
+      "text": "book.spectrum.guidebook.banishment_curse.page0.text",
+      "title": "enchantment.over_the_rainbow.banishment_curse"
     },
     {
       "type": "modonomicon:spotlight",
@@ -37,7 +37,7 @@
           }
         }
       },
-      "text": "Makes any enemy hit disappear, at the loss of their loot.\\\n\\\nMax Level: 1\\\nApplicable to all tools."
+      "text": "book.spectrum.guidebook.banishment_curse.page1.text"
     },
     {
       "type": "spectrum:enchanter_crafting",
@@ -47,12 +47,12 @@
     },
     {
       "type": "modonomicon:text",
-      "title": "Curse of Banishment",
+      "title": "book.spectrum.guidebook.banishment_curse.page3.title",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:endgame/sent_to_shadow_realm_wip"
+        "advancement_id": "over_the_rainbow:endgame/sent_to_shadow_realm_wip"
       },
-      "text": "This enchantment is... odd, to say the least.\\\n\\\nAnything I hit with it disappears without a trace, so naturally I named it \"Curse of Banishment\".\\\n\\\nI do not know where they go, *which is kind of scary when I stop to think about it.*\\\n\\\n*I should be* ***really*** *careful around this one.*"
+      "text": "book.spectrum.guidebook.banishment_curse.page3.text"
     }
   ]
 }

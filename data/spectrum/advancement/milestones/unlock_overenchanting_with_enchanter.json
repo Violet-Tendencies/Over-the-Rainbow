@@ -3,7 +3,7 @@
     "unlocked_overenchanting_with_enchanter": {
       "trigger": "revelationary:advancement_gotten",
       "conditions": {
-        "advancement_identifier": "spectrum:midgame/create_enchantments_wip"
+        "advancement_identifier": "over_the_rainbow:midgame/create_enchantments_wip"
       }
     }
   }

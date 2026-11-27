@@ -1,11 +1,11 @@
 ﻿{
   "name": "Banishment.",
   "icon": {
-    "item": "spectrum:neolith_block"
+    "item": "spectrum:radiating_ender"
   },
   "condition": {
     "type": "modonomicon:advancement",
-    "advancement_id": "spectrum:endgame/enter_conservatory_wip"
+    "advancement_id": "over_the_rainbow:endgame/enter_conservatory_wip"
   },
   "category": "spectrum:enchanting",
   "hide_while_locked": true,
@@ -24,13 +24,13 @@
   "pages": [
     {
       "type": "modonomicon:text",
-      "text": "My lungs are being shredded more with every breath; the air here is as toxic as it is debilitating.\\\n\\\nAt any given moment my body is vivisected almost as quickly as it is put back together.\\\n\\\nI can only look downwards, as to look in any other direction is to stare at that which wants to rip my eyes out.",
-      "title": "Banishment."
+      "text": "book.spectrum.guidebook.the_conservatory.page0.text",
+      "title": "book.spectrum.guidebook.the_conservatory.page0.title"
     },
     {
       "type": "modonomicon:text",
-      "title": "END.",
-      "text": "After an eternity, I had finally come to my senses. I looked around and I was... fine? Whatever, more important questions: where am I and how do I get back?\\\n\\\nLooking further I noticed a small rift behind me, *how convienient*.\\\n\\\nDespite me recovering, every second that passes here makes the clamp around my head tighten.\\\n*I shouldn't be here - not yet*."
+      "title": "book.spectrum.guidebook.the_conservatory.page1.title",
+      "text": "book.spectrum.guidebook.the_conservatory.page1.text"
     }
   ]
 }

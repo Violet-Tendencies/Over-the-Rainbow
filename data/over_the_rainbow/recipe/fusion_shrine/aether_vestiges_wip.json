@@ -17,7 +17,7 @@
     "time_of_day": "midnight",
     "moon_phase": "full_moon"
   },
-  "required_advancement": "spectrum:create_spectral_shard_wip",
+  "required_advancement": "over_the_rainbow:endgame/create_spectral_shard_wip",
   "effects": {
     "start": "lightning_on_shrine",
     "during": [
@@ -29,5 +29,9 @@
       "lightning_around_shrine"
     ],
     "finish": "/fill ~ ~2 ~ ~ ~2 ~ spectrum:liquid_crystal"
+  },
+  "description": {
+    "type": "translatable",
+    "translate": "over_the_rainbow.recipe.fusion_shrine.explanation.aether_vestiges"
   }
 }

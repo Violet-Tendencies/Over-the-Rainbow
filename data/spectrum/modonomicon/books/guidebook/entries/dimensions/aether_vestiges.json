@@ -30,10 +30,10 @@
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "advancement": "spectrum:endgame/create_ominous_sapling_wip",
-      "title": "Fusion Recipe...?",
-      "recipe_id": "spectrum:fusion_shrine/aether_vestiges_wip",
-      "text": "*Can the might of gods truly be imitated?*"
+      "advancement": "over_the_rainbow:endgame/create_ominous_sapling_wip",
+      "title": "book.spectrum.guidebook.aether_vestiges.page2.title",
+      "recipe_id": "over_the_rainbow:fusion_shrine/aether_vestiges_wip",
+      "text": "book.spectrum.guidebook.aether_vestiges.page2.text"
     }
   ]
 }

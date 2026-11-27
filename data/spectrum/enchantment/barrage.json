@@ -1,7 +1,7 @@
 ﻿{
   "anvil_cost": 4,
   "description": {
-    "text": "Barrage"
+    "text": "enchantment.over_the_rainbow.barrage"
   },
   "effects": {
     "minecraft:projectile_count": [

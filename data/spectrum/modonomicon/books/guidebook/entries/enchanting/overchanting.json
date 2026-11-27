@@ -47,8 +47,8 @@
     },
     {
       "type": "modonomicon:text",
-      "title": "Spectrum WIP Addon Enchantments",
-      "text": "- Barrage: 1 → 3"
+      "title": "book.spectrum.guidebook.overchanting.page4.title",
+      "text": "book.spectrum.guidebook.overchanting.page4.text"
     }
   ]
 }

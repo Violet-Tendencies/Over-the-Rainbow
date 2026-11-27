@@ -69,7 +69,7 @@
       },
       "title": "book.spectrum.guidebook.memories.page3.title",
       "recipe_id": "spectrum:spirit_instiller/memories/wither",
-      "text": "Aha! It seems that Spectral Shards are strong enough to resurrect creatures of immense strength!\\\n\\\n*A torturous endeavor for the remembered mob, I'm sure.*\\\n*It's probably best if I don't use this for weaker mobs...*"
+      "text": "book.spectrum.guidebook.memories.page3.text"
     }
   ]
 }

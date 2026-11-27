@@ -1,11 +1,11 @@
 ﻿{
-  "name": "Barrage",
+  "name": "enchantment.over_the_rainbow.barrage",
   "icon": {
     "item": "minecraft:crossbow"
   },
   "condition": {
     "type": "modonomicon:advancement",
-    "advancement_id": "spectrum:create_spectral_shard_wip"
+    "advancement_id": "over_the_rainbow:endgame/create_spectral_shard_wip"
   },
   "category": "spectrum:enchanting",
   "hide_while_locked": true,
@@ -22,8 +22,8 @@
   "pages": [
     {
       "type": "modonomicon:text",
-      "text": "While gazing into my new creation, I wondered how to make use of it. I believe I have an answer: this enchantment.\\\n\\\nUsing the repetitive properties of Pure Echo and the unfettered power of the Spectral Shards, I can double the arrows shot with my crossbow!\\\n\\\nIt *does* sacrifice some accuracy, but it's a sacrifice worth making.",
-      "title": "Barrage"
+      "text": "book.spectrum.guidebook.barrage.page0.text",
+      "title": "enchantment.over_the_rainbow.barrage"
     },
     {
       "type": "modonomicon:spotlight",
@@ -36,7 +36,7 @@
           }
         }
       },
-      "text": "Doubles the base arrows fired per volley, at the cost of accuracy.\\\n\\\nMax Level: 1\\\nApplicable to Crossbows.\\\nMutually exclusive with Multishot and Sniping."
+      "text": "book.spectrum.guidebook.barrage.page1.text"
     },
     {
       "type": "spectrum:enchanter_crafting",

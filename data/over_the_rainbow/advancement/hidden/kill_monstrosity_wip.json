@@ -1,0 +1,22 @@
+﻿{
+  "criteria": {
+    "killed_monstrosity_wip": {
+      "trigger":"minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this", 
+          "predicate": {
+            "minecraft:entity_type": "spectrum:monstrosity"
+          }
+        }
+      }
+    }
+  },
+  "gotten_previous": {
+    "trigger": "revelationary:advancement_gotten",
+    "conditions": {
+      "advancement_identifier": "over_the_rainbow:hidden/create_monstrosity_wip"
+    }
+  }
+}

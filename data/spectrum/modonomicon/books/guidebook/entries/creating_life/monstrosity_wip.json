@@ -1,9 +1,9 @@
 ﻿{
-  "name": "Bastardization of \"Life\"",
+  "name": "book.spectrum.guidebook.monstrosity.page0.title",
   "icon": "spectrum:monstrosity_head",
   "condition": {
     "type": "modonomicon:advancement",
-    "advancement_id": "spectrum:hidden/create_monstrosity_wip"
+    "advancement_id": "over_the_rainbow:hidden/create_monstrosity_wip"
   },
   "category": "spectrum:creating_life",
   "hide_while_locked": true,
@@ -17,32 +17,32 @@
   "x": 5,
   "y": 5,
   "turnin": [
-    "spectrum:hidden/kill_monstrosity_wip"
+    "over_the_rainbow:hidden/kill_monstrosity_wip"
   ],
   "pages": [
     {
       "type": "spectrum:spirit_instiller_crafting",
-      "recipe_id": "spectrum:spirit_instiller/memories/monstrosity/fox_red",
-      "title": "Bastardization of \"Life\"",
-      "text": "\\\n\\\nDespite me ***knowing*** this would go horrifically wrong, I still decided to go through with it. The result?"
+      "recipe_id": "over_the_rainbow:spirit_instiller/memories/monstrosity/fox_red",
+      "title": "book.spectrum.guidebook.monstrosity.page0.title",
+      "text": "book.spectrum.guidebook.monstrosity.page0.text"
     },
     {
       "type": "modonomicon:text",
-      "title": "Nonexistence",
+      "title": "book.spectrum.guidebook.monstrosity.page1.title",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:hidden/hatch_monstrosity_wip"
+        "advancement_id": "over_the_rainbow:hidden/hatch_monstrosity_wip"
       },
-      "text": "Static. Upon it hatching, I saw nothing except **blinding** static that blurred my vision to the point of blindness.\\\n\\\nThen, simultaneously, a torrent of words that were hotter than the sun began to flood and imprint on my mind; each word conflicting with the last as a testament to this \"creature\"'s paradoxical nature.\\\n\\\n*And yet, I saw no \"life\" where it hatched; only the wounds in the earth it left.*"
+      "text": "book.spectrum.guidebook.monstrosity.page1.text"
     },
     {
       "type": "modonomicon:text",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:hidden/kill_monstrosity_wip"
+        "advancement_id": "over_the_rainbow:hidden/kill_monstrosity_wip"
       },
-      "title": "Killing What Does Not Exist",
-      "text": "These visions were the least of my worries though, as when it wasn't running like a coward, it was chewing through my armor as if it didn't even exist! It mercilessly beat me to a ***pulp***, and yet through the astronomical odds I was able to land a singular lucky hit.\\\n\\\nI couldn't see the carcass, but I could see the *pitch black* blood it spilled that corrupted the ground it ran upon.\\\n*Was this... ****thing**** the cause of the Langasts? Am I going too far? So many questions...*"
+      "title": "book.spectrum.guidebook.monstrosity.page2.title",
+      "text": "book.spectrum.guidebook.monstrosity.page2.text"
     }
   ]
 }

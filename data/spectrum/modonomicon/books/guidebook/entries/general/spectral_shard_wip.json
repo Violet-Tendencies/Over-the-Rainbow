@@ -28,14 +28,14 @@
   "pages": [
     {
       "type": "modonomicon:text",
-      "title": "Spectral Shard",
-      "text": "Your first attempt to reach for the stars - long, long ago - was not too successful.\\\n\\\nLooking back, you can only laugh at how simple-minded you were. You learned a lot and came a long way.\\\n*Now you are here. Take 2, here we go.*"
+      "title": "item.spectrum.spectral_shard",
+      "text": "book.spectrum.guidebook.spectral_shard.page0.text"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "title": "Fusion Recipe",
+      "title": "container.spectrum.rei.fusion_recipe",
       "recipe_id": "spectrum:fusion_shrine/spectral_shard_wip",
-      "text": "*The feeling of perfection, this time for real*."
+      "text": "book.spectrum.guidebook.spectral_shard.page1.text"
     }
   ]
 }

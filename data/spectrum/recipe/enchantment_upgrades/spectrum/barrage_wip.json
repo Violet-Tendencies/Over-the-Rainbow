@@ -1,0 +1,21 @@
+﻿{
+  "type": "spectrum:enchantment_upgrade",
+  "enchantment": "spectrum:barrage",
+  "levels": [
+    {
+      "ingredient": {
+        "item": "spectrum:cyan_pigment"
+      },
+      "ingredient_count_per_bowl": 2,
+      "experience": 1000
+    },
+    {
+      "ingredient": {
+        "item": "spectrum:cyan_pigment"
+      },
+      "ingredient_count_per_bowl": 4,
+      "experience": 2000
+    }
+  ],
+  "required_advancement": "over_the_rainbow:endgame/create_spectral_shard_wip"
+}

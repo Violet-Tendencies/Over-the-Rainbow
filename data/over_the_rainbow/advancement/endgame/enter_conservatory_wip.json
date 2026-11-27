@@ -1,0 +1,30 @@
+﻿{
+  "parent": "over_the_rainbow:endgame/sent_to_shadow_realm_wip",
+  "display": {
+    "icon": {
+      "id": "spectrum:neolith_block"
+    },
+    "frame": "challenge",
+    "title": {
+      "translate": "advancements.over_the_rainbow.enter_conservatory_wip.title"
+    },
+    "description": {
+      "translate": "advancements.over_the_rainbow.enter_conservatory_wip.description"
+    },
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "enter_conservatory_wip": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "spectrum:the_conservatory"
+      }
+    },
+    "gotten_previous": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "over_the_rainbow:endgame/sent_to_shadow_realm_wip"
+      }
+    }
+  }
+}

@@ -38,5 +38,9 @@
   "result": {
     "id": "spectrum:artists_palette"
   },
-  "required_advancement": "spectrum:create_spectral_shard_wip"
+  "description": {
+    "type": "translatable",
+    "translate": "over_the_rainbow.recipe.fusion_shrine.explanation.artists_palette"
+  },
+  "required_advancement": "over_the_rainbow:endgame/create_spectral_shard_wip"
 }

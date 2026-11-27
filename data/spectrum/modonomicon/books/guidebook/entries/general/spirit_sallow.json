@@ -2,7 +2,7 @@
   "name": "Spirit Sallow",
   "condition": {
     "type": "modonomicon:advancement",
-    "advancement_id": "spectrum:create_spectral_shard_wip"
+    "advancement_id": "over_the_rainbow:endgame/create_spectral_shard_wip"
   },
   "hide_while_locked": true,
   "icon": "spectrum:ominous_sapling",
@@ -16,87 +16,87 @@
   "background_v_index": 0,
   "x": 17,
   "y": 8,
-  "turnin": "create_ominous_sapling_wip",
+  "turnin": "over_the_rainbow:endgame/create_ominous_sapling_wip",
   "pages": [
     {
       "type": "modonomicon:spotlight",
       "item": {
         "item": "spectrum:ominous_sapling"
       },
-      "text": "A harrowing thought crossed my mind, one I cannot fight. Although I've acted on impulse in the past, this feels more crushing than those atrocities combined. \\\n\\\n*It's only a sapling. It's only a sapling. It's only a sapling.*"
+      "text": "book.spectrum.guidebook.spirit_sallow.page0.text"
     },
     {
       "type": "spectrum:spirit_instiller_crafting",
-      "title": "Manifesting A Horrid Thought",
+      "title": "book.spectrum.guidebook.spirit_sallow.page1.title",
       "recipe_id": "spectrum:spirit_instiller/ominous_sapling",
-      "text": "*What am I doing?*"
+      "text": "book.spectrum.guidebook.spirit_sallow.page1.text"
     },
     {
       "type": "modonomicon:text",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:create_ominous_sapling_wip"
+        "advancement_id": "over_the_rainbow:endgame/create_ominous_sapling_wip"
       },
-      "title": "Spirit Sallow",
-      "text": "Where did this name come from? I don't know - perhaps it's inspiration from the same powers that let me create these... abhorrences."
+      "title": "book.spectrum.guidebook.spirit_sallow.page2.title",
+      "text": "book.spectrum.guidebook.spirit_sallow.page2.text"
     },
     {
       "type": "modonomicon:spotlight",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:create_ominous_sapling_wip"
+        "advancement_id": "over_the_rainbow:endgame/create_ominous_sapling_wip"
       },
       "item": {
         "item": "spectrum:spirit_sallow_log"
       },
-      "title": "Spirit Sallow Log",
-      "text": "In a word: mesmerising. The center trades rings for lights similar to ones I've seen in Preservation Ruins!\\\n\\\n*While easy to take the log, stripping bark seems like a* ***much*** *harder endeavor.*"
+      "title": "book.spectrum.guidebook.spirit_sallow.page3.title",
+      "text": "book.spectrum.guidebook.spirit_sallow.page3.text"
     },
     {
       "type": "modonomicon:spotlight",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:create_ominous_sapling_wip"
+        "advancement_id": "over_the_rainbow:endgame/create_ominous_sapling_wip"
       },
       "item": {
         "item": "spectrum:spirit_sallow_heart"
       },
-      "title": "Spirit Sallow Heart",
-      "text": "Infusing the sapling with a Spectral Shard caused a heart to grow!\\\nIt's reminiscent of Azurite in color, water in motion, and Light Blue in peace.\\\n\\\n*It's use, however, is lost on me.*"
+      "title": "book.spectrum.guidebook.spirit_sallow.page4.title",
+      "text": "book.spectrum.guidebook.spirit_sallow.page4.text"
     },
     {
       "type": "modonomicon:spotlight",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:create_ominous_sapling_wip"
+        "advancement_id": "over_the_rainbow:endgame/create_ominous_sapling_wip"
       },
       "item": {
         "item": "spectrum:spirit_sallow_leaves"
       },
-      "title": "Spirit Sallow Leaves",
-      "text": "Weeping Gala leaves if they shed like a pack of wolves, though pretty in small amounts."
+      "title": "book.spectrum.guidebook.spirit_sallow.page5.title",
+      "text": "book.spectrum.guidebook.spirit_sallow.page5.text"
     },
     {
       "type": "modonomicon:spotlight",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:create_ominous_sapling_wip"
+        "advancement_id": "over_the_rainbow:endgame/create_ominous_sapling_wip"
       },
       "item": {
         "item": "spectrum:spirit_sallow_roots"
       },
-      "title": "Spirit Sallow Roots",
-      "text": "Disgusting. Revolting. Destroy on sight, if not for the sanctity of the world, then for the sanctity of my eyes."
+      "title": "book.spectrum.guidebook.spirit_sallow.page6.title",
+      "text": "book.spectrum.guidebook.spirit_sallow.page6.text"
     },
     {
       "type": "spectrum:spirit_instiller_crafting",
       "condition": {
         "type": "modonomicon:advancement",
-        "advancement_id": "spectrum:create_ominous_sapling_wip"
+        "advancement_id": "over_the_rainbow:endgame/create_ominous_sapling_wip"
       },
-      "recipe_id": "spectrum:spirit_instiller/spirit_sallow_log_wip",
-      "title": "If It Can Exist...",
-      "text": "*Logs, Azurite, Leaves, and Dirt, respectively.*"
+      "recipe_id": "over_the_rainbow:spirit_instiller/spirit_sallow_log_wip",
+      "title": "book.spectrum.guidebook.spirit_sallow.page7.title",
+      "text": "book.spectrum.guidebook.spirit_sallow.page7.text"
     }
   ]
 }

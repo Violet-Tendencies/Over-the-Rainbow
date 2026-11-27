@@ -1,7 +1,7 @@
 ﻿{
   "anvil_cost": 4,
   "description": {
-    "text": "Curse of Banishment"
+    "text": "enchantment.over_the_rainbow.banishment_curse"
   },
   "effects": {
     "minecraft:damage":[
@@ -23,13 +23,6 @@
         "effect": {
           "type": "minecraft:run_function",
           "function": "spectrum:banishment_curse"
-        },
-        "requirement": {
-          "type": "minecraft:entity_properties",
-          "entity": "this",
-          "predicate": {
-            "minecraft:entity_type": "minecraft:iron_golem"
-          }
         }
       }
     ]

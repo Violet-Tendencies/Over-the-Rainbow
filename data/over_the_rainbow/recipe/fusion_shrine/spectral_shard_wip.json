@@ -22,11 +22,14 @@
     "start": "single_visual_explosion_on_shrine",
     "during": [
       "nothing",
-      "visual_explosions_around_shrine",
       "lightning_on_shrine",
       "visual_explosions_on_shrine",
       "lightning_around_shrine"
     ],
     "finish": "weather_thunder_short"
+  },
+  "description": {
+    "type": "translatable",
+    "translate": "over_the_rainbow.recipe.fusion_shrine.explanation.spectral_shard"
   }
 }
