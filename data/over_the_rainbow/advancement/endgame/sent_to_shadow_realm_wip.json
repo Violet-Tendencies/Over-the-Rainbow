@@ -10,7 +10,7 @@
       "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.title"
     }
   },
-  "parent": "spectrum:create_spectral_shard_wip",
+  "parent": "over_the_rainbow:endgame/create_spectral_shard_wip",
   "criteria": {
     "shadow_realmed_wip": {
       "trigger": "minecraft:player_hurt_entity",
@@ -35,7 +35,7 @@
     "gotten_previous": {
       "trigger": "revelationary:advancement_gotten",
       "conditions": {
-        "advancement_identifier": "spectrum:create_spectral_shard_wip"
+        "advancement_identifier": "over_the_rainbow:endgame/create_spectral_shard_wip"
       }
     }
   },

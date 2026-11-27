@@ -11,7 +11,7 @@
       "translate": "advancements.over_the_rainbow.create_enchantments.description"
     }
   },
-  "parent": "spectrum:midgame/create_enchantment_wip",
+  "parent": "over_the_rainbow:midgame/create_enchantment_wip",
   "criteria": {
     "has_enchanted_enough_wip": {
       "trigger": "revelationary:advancement_count",
@@ -89,7 +89,7 @@
     "gotten_previous": {
       "trigger": "revelationary:advancement_gotten",
       "conditions": {
-        "advancement_identifier": "spectrum:midgame/create_enchantment_wip"
+        "advancement_identifier": "over_the_rainbow:midgame/create_enchantment_wip"
       }
     }
   }
