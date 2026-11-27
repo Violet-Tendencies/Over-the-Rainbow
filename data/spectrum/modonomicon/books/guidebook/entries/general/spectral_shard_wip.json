@@ -1,5 +1,5 @@
 {
-  "name": "Spectral Shard",
+  "name": "item.spectrum.spectral_shard",
   "condition": {
     "type": "modonomicon:advancement",
     "advancement_id": "spectrum:lategame/collect_aether_vestiges"
@@ -34,7 +34,7 @@
     {
       "type": "spectrum:fusion_shrine_crafting",
       "title": "container.spectrum.rei.fusion_recipe",
-      "recipe_id": "spectrum:fusion_shrine/spectral_shard_wip",
+      "recipe_id": "over_the_rainbow:fusion_shrine/spectral_shard_wip",
       "text": "book.spectrum.guidebook.spectral_shard.page1.text"
     }
   ]

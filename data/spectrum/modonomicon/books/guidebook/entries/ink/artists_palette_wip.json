@@ -1,8 +1,8 @@
 {
-  "name": "Artist's Palette",
+  "name": "item.spectrum.artists_palette",
   "condition": {
     "type": "modonomicon:advancement",
-    "advancement_id": "spectrum:create_spectral_shard_wip"
+    "advancement_id": "over_the_rainbow:endgame/create_spectral_shard_wip"
   },
   "icon": {
     "item": "spectrum:artists_palette"
@@ -21,21 +21,21 @@
   "background_v_index": 0,
   "x": 1,
   "y": -4,
-  "turnin": "spectrum:create_spectral_shard_wip",
+  "turnin": "over_the_rainbow:endgame/create_spectral_shard_wip",
   "pages": [
     {
       "type": "modonomicon:spotlight",
-      "title": "Artist's Palette",
+      "title": "item.spectrum.artists_palette",
       "item": {
         "item": "spectrum:artists_palette"
       },
-      "text": "The Artist's Palette combines the Ink-storing ability of the Pigment Palette with your new capabilities to mix colors.\\\n\\\nIt directly stores elemental Ink and mixes the others on the fly, while having vastly increased capacity."
+      "text": "book.spectrum.guidebook.artists_palette.page0.text"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "title": "Fusion Recipe",
-      "recipe_id": "spectrum:fusion_shrine/artists_palette_wip",
-      "text": "Capable of storing sizable amounts of Ink, making you able to supply all your magical equipment.\\\n\\\nIt is not suited for powering your machines, though."
+      "title": "book.spectrum.guidebook.artists_palette.page1.title",
+      "recipe_id": "over_the_rainbow:fusion_shrine/artists_palette_wip",
+      "text": "book.spectrum.guidebook.artists_palette.page1.text"
     }
   ]
 }

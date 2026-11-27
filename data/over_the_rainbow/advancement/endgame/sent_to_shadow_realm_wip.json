@@ -4,10 +4,10 @@
       "id": "minecraft:barrier"
     },
     "title": {
-      "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.description"
+      "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.title"
     },
     "description": {
-      "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.title"
+      "translate": "advancements.over_the_rainbow.sent_to_shadow_realm.description"
     }
   },
   "parent": "over_the_rainbow:endgame/create_spectral_shard_wip",

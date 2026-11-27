@@ -43,7 +43,7 @@
       "type": "spectrum:enchanter_crafting",
       "text": "book.spectrum.guidebook.crafting",
       "title": "container.spectrum.rei.enchanter_recipe",
-      "recipe_id": "spectrum:enchanter/spectrum_books/banishment_curse"
+      "recipe_id": "over_the_rainbow:enchanter/spectrum_books/banishment_curse"
     },
     {
       "type": "modonomicon:text",
