@@ -46,7 +46,7 @@ run `/modonomicon reset spectrum:guidebook`
 And you'll be good to go! Sadly, I do not know a way around this aside from playing on a new save with this datapack installed from the start.
 
 ### "I did a thing but nothing popped up in the book!"
-Before panicking, try `/modonomicon reset spectrum:guidebook` again, this is due to the guidebook being finicky with advancements being added mid-playthrough. This command will NOT erase any progress you may already have.
+Before panicking, try `/modonomicon reset spectrum:guidebook` and `/modonomicon reload`, this is due to the guidebook being finicky with advancements being added mid-playthrough. This command will NOT erase any progress you may already have.
 
 ## NOTICES:
 No part of this datapack was created with or by Artificial Intelligence. The creator of this datapack does not support the use of AI in creative works.
