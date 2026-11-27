@@ -6,10 +6,10 @@
     },
     "frame": "challenge",
     "title": {
-      "translate": "advancements.over_the_rainbow.enter_conservatory_wip.title"
+      "translate": "advancements.over_the_rainbow.enter_conservatory.title"
     },
     "description": {
-      "translate": "advancements.over_the_rainbow.enter_conservatory_wip.description"
+      "translate": "advancements.over_the_rainbow.enter_conservatory.description"
     },
     "announce_to_chat": false
   },

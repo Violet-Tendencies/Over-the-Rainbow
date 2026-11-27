@@ -14,9 +14,9 @@
 
   "book.spectrum.guidebook.aether_vestiges.page2.title": "Fusion Recipe...?",
   "book.spectrum.guidebook.aether_vestiges.page2.text": "Midnight on a full moon would be the best time to do it, any other time the risks are... immense.\\\n*Can the might of gods truly be imitated?*",
-  "book.spectrum.guidebook.artists_palette.0.text": "The Artist's Palette combines the Ink-storing ability of the Pigment Palette with my new capabilities to mix colors.\\\n\\\nIt directly stores elemental Ink and mixes the others on the fly, while having vastly increased capacity.\\\nQuite the brilliant invention on my part!",
+  "book.spectrum.guidebook.artists_palette.page0.text": "The Artist's Palette combines the Ink-storing ability of the Pigment Palette with my new capabilities to mix colors.\\\n\\\nIt directly stores elemental Ink and mixes the others on the fly, while having vastly increased capacity.\\\nQuite the brilliant invention on my part!",
   "book.spectrum.guidebook.artists_palette.page1.title": "Fusion Recipe",
-  "book.spectrum.guidebook.artists_palette.page1.text": "Capable of storing sizable amounts of Ink, making sure my Ink *almost* never runs dry!.",
+  "book.spectrum.guidebook.artists_palette.page1.text": "Capable of storing sizable amounts of Ink, making sure my Ink *almost* never runs dry!",
   "book.spectrum.guidebook.banishment_curse.page0.text": "The energy of a Spectral Shard in such a small area got me thinking: *what if it was compacted?*\\\n\\\nNaturally, this would be too explosive for me to even think of doing at home, but an enchantment would be able to capture the energy nicely!",
   "book.spectrum.guidebook.banishment_curse.page1.text": "Makes any enemy hit disappear, at the loss of their loot.\\\n\\\nMax Level: 1\\\nApplicable to all tools.",
   "book.spectrum.guidebook.banishment_curse.page3.title": "Disappearing Act",
@@ -27,7 +27,7 @@
   "book.spectrum.guidebook.the_conservatory.page0.text": "My lungs are being shredded more with every breath; the air here is as toxic as it is debilitating.\\\n\\\nAt any given moment my body is vivisected almost as quickly as it is put back together.\\\n\\\nI can only look downwards, as to look in any other direction is to stare at that which wants to gouge my eyes out.",
   "book.spectrum.guidebook.the_conservatory.page1.title": "END.",
   "book.spectrum.guidebook.the_conservatory.page1.text": "After an eternity, I had finally come to my senses. I looked around and I was... fine? Whatever, more important questions: where am I and how do I get back?\\\n\\\nLooking further I noticed a small rift behind me, *how convenient*.\\\n\\\nDespite me recovering, every second that passes here makes the clamp around my head tighten.\\\n*I shouldn't be here - not yet*.",
-  "book.spectrum.guidebook.memories.page3.text": "Aha! It seems that Spectral Shards are strong enough to resurrect creatures of immense strength!\\\n\\\n*A torturous endeavor for the remembered mob, I'm sure.*\\\n*It's probably best if I don't use this for weaker mobs...*",
+  "book.over_the_rainbow.guidebook.memories.page3.text": "Aha! It seems that Spectral Shards are strong enough to resurrect creatures of immense strength!\\\n\\\n*A torturous endeavor for the remembered mob, I'm sure.*\\\n*It's probably best if I don't use this for weaker mobs...*",
   "book.spectrum.guidebook.monstrosity.page0.title": "Bastardization of \"Life\"",
   "book.spectrum.guidebook.monstrosity.page0.text": "\\\n\\\nDespite me ***knowing*** this would go horrifically wrong, I still decided to go through with it. The result?",
   "book.spectrum.guidebook.monstrosity.page1.title": "Nonexistence",
@@ -36,7 +36,7 @@
   "book.spectrum.guidebook.monstrosity.page2.text": "These visions were the least of my worries though, as when it wasn't running like a coward, it was chewing through my armor as if it didn't even exist! It mercilessly beat me to a ***pulp***, and yet through the astronomical odds I was able to land a singular lucky hit.\\\n\\\nI couldn't see the carcass, but I could see the *pitch black* blood it spilled that corrupted the ground it ran upon.\\\n*Was this... ****thing**** the cause of the Langasts? Am I going too far? So many questions...*",
   "book.spectrum.guidebook.overchanting.page4.title": "Over the Rainbow Enchantments",
   "book.spectrum.guidebook.overchanting.page4.text": "- Barrage: 1 → 3",
-  "book.spectrum.guidebook.potion_workshop_reagents.spectral_shard.text": "A volatile and erratic reagent, it seems to randomly do some of the following:\\\n- makes the potion completely unidentifiable\n- randomizes the potion's color\n- adds anywhere from 0 to 2 positive or negative effects\n\n\n*mistakes were made in learning what this does*",
+  "book.spectrum.guidebook.potion_workshop_reagents.spectral_shard.text": "A volatile and erratic reagent, it seems to randomly do some of the following:\n- makes the potion completely unidentifiable\n- randomizes the potion's color\n- adds anywhere from 0 to 2 positive or negative effects\n\n\n*mistakes were made in learning what this does*",
   "book.spectrum.guidebook.spectral_shard.page0.text": "My first attempt to reach for the stars - long, long ago - was not too successful.\\\n\\\nLooking back, I can only laugh at how simple-minded I was. I've learned a lot and came a long way.\\\n*Now I am here. Take 2, here we go.*",
   "book.spectrum.guidebook.spectral_shard.page1.text": "*The feeling of perfection, this time for real*.",
   "book.spectrum.guidebook.spirit_sallow.page0.text": "A harrowing thought crossed my mind, one I cannot fight. Although I've acted on impulse in the past, this feels more crushing than those atrocities combined. \\\n\\\n*It's only a sapling. It's only a sapling. It's only a sapling.*",
@@ -62,5 +62,5 @@
   "over_the_rainbow.recipe.fusion_shrine.explanation.artists_palette": "Ink? Not a problem!",
   "over_the_rainbow.recipe.fusion_shrine.explanation.spectral_shard": "Perfection.",
 
-  "spectrum.rei.potion_workshop_reacting.spectrum.spectral_shard": "Extremely volatile.\\\nEven perfection has it's faults."
+  "spectrum.rei.potion_workshop_reacting.spectrum.spectral_shard": "Extremely volatile.\nEven perfection has it's faults."
 }
