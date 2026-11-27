@@ -30,7 +30,7 @@ run `/advancement revoke @a only spectrum:unlocks/blocks/memories`
 
 run `/advancement revoke @a only spectrum:endgame/spectrum_endgame`
 
-press the green button to download the zip, extract it, and [add the datapack](https://minecraft.wiki/w/Tutorial:Importing_a_data_pack)
+press the green button to download the zip, extract it, and [add the datapack](https://minecraft.wiki/w/Tutorial:Importing_a_data_pack) as a datapack and a [resource pack](https://minecraft.wiki/w/Tutorial:Loading_a_resource_pack)
 
 after adding datapack:
 
